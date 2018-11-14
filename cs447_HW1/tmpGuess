@@ -1,0 +1,10 @@
+Your task is to implement a better FST in the buildFST() function, using the methods described here
+You may define additional methods in this module (hw1_fst.py) as desired
+accept  ==>  accepting
+accuse  ==>  accusing
+act  ==>  acting
+add  ==>  adding
+admit  ==>  admitting
+advise  ==>  advising
+affect  ==>  affecting
+agree  ==>  agreeing
